@@ -1,0 +1,6 @@
+{
+  "name": "HorizonVols",
+  "description": "Plateforme moderne de recherche et réservation de vols pour destinations internationales et africaines avec gestion complète des passagers, sièges, options et billets électroniques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
